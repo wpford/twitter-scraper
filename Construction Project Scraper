@@ -417,7 +417,6 @@ tweets.to_csv("kw_tweets.csv", encoding='utf-8', index=False)
 # end tell
 # set theSubject to "Region 3 Construction"
 # set theBody to "Filename in attachment: " & fileName
-# set theAddress to "cgaron@apple.com"
 # set theAttachment to theFile
 # set theSender to "Name of Sender"
 # tell application "Mail"
